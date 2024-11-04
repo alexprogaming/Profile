@@ -110,7 +110,7 @@ e projetos da equipe.</p>
 <p style="font-size: 15px; margin-top: 30px;">📫 Contacte-me via email institucional em: <span style="color: #0acbff ;">Alexmeirellles00@gmail.com</span></p>
 <div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alexprogaming/alexprogaming/blob/output/github-contribution-grid-snake.svg)
 
 
 
